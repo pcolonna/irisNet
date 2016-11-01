@@ -18,16 +18,16 @@ Finally, maybe use other languages altogether.
 
 ## After that?
 
-#### Visualization. 
+### Visualization. 
 
 Visualize the dataset and export the graphs. 
 Visualize the training with maybe something like Keras.JS.
 
-#### Optimizing.
+### Optimizing.
 
 Even though the goal is not to beat any benchmark, I'll try to find and document what improve performances. Find the "best" model. 
 
-#### Bigger datasets.
+### Bigger datasets.
 
 After that, I'll try to graduate to bigger and maybe more interesting flower datasets. 
 
